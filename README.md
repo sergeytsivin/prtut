@@ -1,3 +1,3 @@
 # prtut
 
-Create something This is something
+Create something. This is something.
